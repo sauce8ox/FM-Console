@@ -1,0 +1,12 @@
+应用及修改后的内存读取代码：GPL-3.0-or-later，完整许可见 LICENSE。
+窗口源码：source/Program.cs；页面源码：console.html、assets/；本地服务及读取源码：tools/。
+
+Microsoft WebView2 SDK 1.0.3537.50：微软许可，见 licenses/WebView2-LICENSE.txt 和 NOTICE。WebView2 Runtime 使用电脑已安装的版本，不包含在此包。
+Node.js 24.12.0：MIT 及其第三方许可，见 licenses/Node-LICENSE.txt。
+Python 3.12：Python Software Foundation License，见 tools/fm-reader/runtime/LICENSE.txt。
+fmsave 和 backports.zstd：许可见 tools/fm-reader/packages/ 对应 dist-info 目录。
+Bebas Neue：SIL Open Font License，见 licenses/Bebas-OFL.txt。
+内存读取参考来源、原作者及提交版本见 tools/fm-live-reader/README.txt、vendor/LICENSE 及原文件声明。
+vendor/THIRD-PARTY-NOTICES.md 为原参考程序的说明；其中 Qt、PySide6、PyInstaller 不在本桌面版中使用或附带。
+
+应用源码可以按 GPL-3.0-or-later 分享及修改。附带的微软运行组件等遵循各自许可。
